@@ -1,0 +1,38 @@
+.register
+{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    background: url('../images/tigerimage.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat
+}
+
+.regbox
+{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-left: 80px;
+    background-color:rgba(255,255,255,0.5);
+    padding:30px;
+    height:560px;
+    width:500px;
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.reghead
+{
+    margin-left:80px;
+}
+
+input
+{
+    width:100%;
+}
+
+.radioinput
+{
+    width:10%;
+}
